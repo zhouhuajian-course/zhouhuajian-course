@@ -24,12 +24,10 @@ ____________________________________________________
     ASCII字符表
     https://github.com/zhouhuajian-course/zhouhuajian-course/tree/master/ASCII、GB2312、GBK、GB18030、Unicode字符集与字符编码
     
-    
 ### GB2312字符集与字符编码
 
     GB2312字符表
     https://github.com/zhouhuajian-course/zhouhuajian-course/tree/master/ASCII、GB2312、GBK、GB18030、Unicode字符集与字符编码
-    
     
 ### GBK字符集与字符编码
 
